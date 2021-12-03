@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LetsGo</string>
+    <string name="annonce_title">TextView</string>
+    <string name="annonce_localisation">TextView</string>
+    <string name="annonce_image">TODO</string>
+    <string name="annonce_description">TextView</string>
+    <string name="annonce_availableP">TextView</string>
+    <string name="description">Description :</string>
+    <string name="availableP">Available Places :</string>
+    <string name="Fees">Price :</string>
+    <string name="annonce_price">TextView</string>
+    <string name="contacts">TextView</string>
+    <string name="annonce_contacts">TextView</string>
+    <string name="annonce_participate">LetsGo !</string>
+    <string name="annonce_save">TODO</string>
+    <string name="annonce_imagee">TODO</string>
+    <string name="annonceImg">TODO</string>
+    <string name="buttonTest">Button</string>
+</resources>
